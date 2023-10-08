@@ -6,7 +6,8 @@ public class Sample {
 		int a=67;
 		System.out.println(a);
 		System.out.println("anu done work");
-
+        System.out.println("im a done my work");
+        
 	}
 
 }
